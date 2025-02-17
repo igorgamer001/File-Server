@@ -4,8 +4,6 @@ const path = require('path');
 const url = require('url');
 const mime = require('mime-types');
 
-
-
 // Configuration
 const PORT = 3000;
 const DIRECTORY = path.join(__dirname, 'public'); // Public directory for serving files
